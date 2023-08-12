@@ -1,0 +1,76 @@
+/*CSS for my demonstration project*/
+body{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 1000px;
+   margin: auto;
+   background-color: #e2dfe7;
+}
+h1 {
+   color: #35954a ;
+   margin-left: 80px;
+   text-align: center;
+}
+nav{
+   background-color: #74d867 ;
+   height: 60px;
+   padding-bottom: 20px;
+}
+nav ul {
+   list-style: none; 
+   padding-top: 4px; 
+}
+nav li {
+   display: inline;
+}
+nav a {
+   text-decoration: none;
+   color: white;
+   font-size: 0.8em;
+   font-weight: bold;
+   margin-right: 20px;
+}
+nav a:hover{
+   color: black;
+}
+section {
+   float: left;
+   width: 100%;
+   margin-right: 5%;
+   margin-bottom: 20px;
+}
+
+footer {
+   clear: both;
+   background-color: #35955a;
+   color: white;
+   height: 30px;
+   text-align: center;
+}
+footer a {
+   text-decoration: none;
+   color: white;
+   margin-left: 20px;
+}
+
+table {
+  width: 100%;
+}
+.image_right{
+   float:right;
+   margin-left: 10px;
+   margin-bottom: 10px;
+}
+.image_left{
+   float:left;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+img.item
+{ transition: transform 0.25s ease;}
+img:hover.item
+{ -webkit-transform: scale(2);
+ transform: scale(2)}
+
+
+
+
