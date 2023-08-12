@@ -72,6 +72,8 @@ img:hover.item
 { -webkit-transform: scale(2);
  transform: scale(2)}
 
-
+ table, th, td {
+   border: 1px solid rgb(151, 79, 79);
+ }
 
 
