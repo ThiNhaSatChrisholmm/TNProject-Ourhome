@@ -65,8 +65,9 @@ table {
    margin-right: 10px;
    margin-bottom: 10px;
 }
-img.item
-{ transition: transform 0.25s ease;}
+#item
+{ transition: transform 0.1s ease;}
+
 img:hover.item
 { -webkit-transform: scale(2);
  transform: scale(2)}
