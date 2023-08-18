@@ -3,10 +3,10 @@ body{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    width: 1000px;
    margin: auto;
-   background-color: #e2dfe7;
+   background-color: #edebf1;
 }
 h1 {
-   color: #35954a ;
+   color: #151615 ;
    margin-left: 80px;
    text-align: center;
 }
@@ -42,7 +42,7 @@ section {
 footer {
    clear: both;
    background-color: #35955a;
-   color: white;
+   color: rgb(17, 17, 17);
    height: 30px;
    text-align: center;
 }
